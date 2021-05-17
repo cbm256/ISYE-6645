@@ -1,0 +1,14 @@
+[RESOURCES]
+Machine
+[VARIABLES]
+Decide 1.NumberOut False
+Day_Rate
+Process 1.WaitTime
+Process 1.NumberIn
+Create 2.NumberOut
+Create 1.NumberOut
+Dispose 1.NumberOut
+day
+Process 1.VATime
+Process 1.NumberOut
+Decide 1.NumberOut True

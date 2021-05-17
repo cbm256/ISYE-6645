@@ -1,0 +1,52 @@
+SIMAN Run Controller.
+
+81.0 Hours>
+                                      ARENA Simulation Results
+                                       Jon - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 3/13/2021
+Analyst: Jon                                                         Model revision date: 3/13/2021
+
+Replication ended at time      : 81.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             1.0000     (Insuf)    1.0000     1.0000         30    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000         30    
+Entity 1.WaitTime                           25.000     (Insuf)    .00000     50.000         30    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000         30    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000         30    
+Entity 1.TotalTime                          26.000     (Insuf)    1.0000     51.000         30    
+Process 1.Queue.WaitingTime                 25.000     (Insuf)    .00000     50.000         30    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                26.000     (Insuf)    .00000     52.000     51.000    
+car.NumberBusy                              .37037     (Insuf)    .00000     1.0000     .00000    
+car.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+car.Utilization                             .37037     (Insuf)    .00000     1.0000     .00000    
+Process 1.Queue.NumberInQueue               25.629     (Insuf)    .00000     51.000     51.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           81.000    
+Entity 1.NumberOut                          30.000    
+car.NumberSeized                            30.000    
+car.ScheduledUtilization                    .37037    
+System.NumberOut                            30.000    
+
+
+Simulation run time: 0.15 minutes.
+Simulation run complete.

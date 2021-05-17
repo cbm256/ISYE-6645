@@ -1,0 +1,67 @@
+SIMAN Run Controller.
+
+21.555556 Days>
+                                      ARENA Simulation Results
+                                       Jon - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 3/12/2021
+Analyst: Jon                                                         Model revision date: 3/12/2021
+
+Replication ended at time      : 1400.0 Days 
+Base Time Units: Days
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Delay 1 Day.TotalTimePerEntity              .95833     (Corr)     .95833     .95833       1400    
+Delay 1 Day.VATimePerEntity                 .95833     (Corr)     .95833     .95833       1400    
+Time Writing.TotalTimePerEntity             5.5555     (Insuf)    5.5555     5.5555        135    
+Days till Flip                              1280.7     (Insuf)    1180.5     1389.5         13    
+Time Writing.VATimePerEntity                5.5555     (Insuf)    5.5555     5.5555        135    
+Book.VATime                                 .00000     .00000     .00000     .00000       1264    
+Book.NVATime                                .00000     .00000     .00000     .00000       1264    
+Book.WaitTime                               .00000     .00000     .00000     .00000       1264    
+Book.TranTime                               .00000     .00000     .00000     .00000       1264    
+Book.OtherTime                              .00000     .00000     .00000     .00000       1264    
+Book.TotalTime                              .00000     .00000     .00000     .00000       1264    
+Fake Counter.VATime                             --         --         --         --          0
+Fake Counter.NVATime                            --         --         --         --          0
+Fake Counter.WaitTime                           --         --         --         --          0
+Fake Counter.TranTime                           --         --         --         --          0
+Fake Counter.OtherTime                          --         --         --         --          0
+Fake Counter.TotalTime                          --         --         --         --          0
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Delta Value                                 41.058     (Corr)     -823.406   105.32     91.580    
+Funds Available Value                       556.97     (Corr)     2.6244     20000.     453.43    
+Book.WIP                                    68.135     (Insuf)    .00000     137.00     136.00    
+Fake Counter.WIP                            .95833     (Corr)     .00000     1.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Time Writing Number Out                     135.00    
+Time Writing Accum VA Time                  750.00    
+Delay 1 Day Accum VA Time                   1341.6    
+Delay 1 Day Number Out                      1400.0    
+Delay 1 Day Number In                       1400.0    
+Time Writing Number In                      136.00    
+Book.NumberIn                               1400.0    
+Book.NumberOut                              1264.0    
+Fake Counter.NumberIn                       1400.0    
+Fake Counter.NumberOut                      1400.0    
+System.NumberOut                            1264.0    
+
+
+Simulation run time: 0.08 minutes.
+Simulation run complete.

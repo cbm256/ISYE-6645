@@ -1,0 +1,303 @@
+
+                                      ARENA Simulation Results
+                                       Jon - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Call Center                                                 Run execution date : 3/13/2021
+Analyst: Ernistine                                                   Model revision date: 3/13/2021
+
+Replication ended at time      : 33000.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Product 3 Call                              9.0201     .04977     3.0588     17.915      10806    
+Tech Support Line Time                      12.173     .15312     3.4686     34.088      25810    
+Product 2 Call                              8.9631     .07340     3.0944     17.781       8624    
+Product 1 Call                              8.9958     .07590     3.1148     17.927       6380    
+Sales Call Time                             24.311     .76670     4.3193     70.728       5392    
+Return 3 Call                               79.554     6.2883     12.055     326.08        370    
+Return 2 Call                               78.766     8.8647     10.737     316.26        345    
+Return 1 Call                               70.514     (Insuf)    13.767     395.07        258    
+Order Calls                                 4.7745     .17306     2.2398     43.510       2649    
+Sales Call.VATime                           21.127     .24221     4.0483     44.762       5392    
+Sales Call.NVATime                          .00000     .00000     .00000     .00000       5392    
+Sales Call.WaitTime                         2.8317     .67730     .00000     42.695       5392    
+Sales Call.TranTime                         .00000     .00000     .00000     .00000       5392    
+Sales Call.OtherTime                        .35214     .00483     .10006     .59999       5392    
+Sales Call.TotalTime                        24.311     .76670     4.3193     70.728       5392    
+Sales Call.VACost                           6.3384     .07266     1.2144     13.428       5392    
+Sales Call.NVACost                          .00000     .00000     .00000     .00000       5392    
+Sales Call.WaitCost                         .00000     .00000     .00000     .00000       5392    
+Sales Call.TranCost                         .00000     .00000     .00000     .00000       5392    
+Sales Call.OtherCost                        .00000     .00000     .00000     .00000       5392    
+Sales Call.TotalCost                        6.3384     .07266     1.2144     13.428       5392    
+Order Status Call.VATime                    3.9309     .09407     2.0139     13.072       2649    
+Order Status Call.NVATime                   .00000     .00000     .00000     .00000       2649    
+Order Status Call.WaitTime                  .49347     .14060     .00000     34.645       2649    
+Order Status Call.TranTime                  .00000     .00000     .00000     .00000       2649    
+Order Status Call.OtherTime                 .35013     .00380     .10020     .59996       2649    
+Order Status Call.TotalTime                 4.7745     .17306     2.2398     43.510       2649    
+Order Status Call.VACost                    .27954     .02793     .00000     2.8721       2649    
+Order Status Call.NVACost                   .00000     .00000     .00000     .00000       2649    
+Order Status Call.WaitCost                  .00000     .00000     .00000     .00000       2649    
+Order Status Call.TranCost                  .00000     .00000     .00000     .00000       2649    
+Order Status Call.OtherCost                 .00000     .00000     .00000     .00000       2649    
+Order Status Call.TotalCost                 .27954     .02793     .00000     2.8721       2649    
+Returned Call.VATime                        14.210     .25119     5.8060     24.729        973    
+Returned Call.NVATime                       .00000     .00000     .00000     .00000        973    
+Returned Call.WaitTime                      6.5127     .41087     .00000     30.857        973    
+Returned Call.TranTime                      .00000     .00000     .00000     .00000        973    
+Returned Call.OtherTime                     56.154     4.1198     .47727     383.23        973    
+Returned Call.TotalTime                     76.877     4.1693     10.737     395.07        973    
+Returned Call.VACost                        4.0068     .07810     1.5482     7.8001        973    
+Returned Call.NVACost                       .00000     .00000     .00000     .00000        973    
+Returned Call.WaitCost                      .00000     .00000     .00000     .00000        973    
+Returned Call.TranCost                      .00000     .00000     .00000     .00000        973    
+Returned Call.OtherCost                     .00000     .00000     .00000     .00000        973    
+Returned Call.TotalCost                     4.0068     .07810     1.5482     7.8001        973    
+Tech Call.VATime                            8.9866     .04392     3.0588     17.927      24837    
+Tech Call.NVATime                           .00000     .00000     .00000     .00000      24837    
+Tech Call.WaitTime                          2.5295     .17424     .00000     21.131      24837    
+Tech Call.TranTime                          .00000     .00000     .00000     .00000      24837    
+Tech Call.OtherTime                         .65121     (Corr)     .20273     1.0972      24837    
+Tech Call.TotalTime                         12.167     .18060     3.4686     34.088      24837    
+Tech Call.VACost                            2.5310     .01249     .81763     5.9535      24837    
+Tech Call.NVACost                           .00000     .00000     .00000     .00000      24837    
+Tech Call.WaitCost                          .00000     .00000     .00000     .00000      24837    
+Tech Call.TranCost                          .00000     .00000     .00000     .00000      24837    
+Tech Call.OtherCost                         .00000     .00000     .00000     .00000      24837    
+Tech Call.TotalCost                         2.5310     .01249     .81763     5.9535      24837    
+Arrival Entity.VATime                       .00000     .00000     .00000     .00000       2411    
+Arrival Entity.NVATime                      .00000     .00000     .00000     .00000       2411    
+Arrival Entity.WaitTime                     .00000     .00000     .00000     .00000       2411    
+Arrival Entity.TranTime                     .00000     .00000     .00000     .00000       2411    
+Arrival Entity.OtherTime                    .00000     .00000     .00000     .00000       2411    
+Arrival Entity.TotalTime                    .00000     .00000     .00000     .00000       2411    
+Arrival Entity.VACost                       .00000     .00000     .00000     .00000       2411    
+Arrival Entity.NVACost                      .00000     .00000     .00000     .00000       2411    
+Arrival Entity.WaitCost                     .00000     .00000     .00000     .00000       2411    
+Arrival Entity.TranCost                     .00000     .00000     .00000     .00000       2411    
+Arrival Entity.OtherCost                    .00000     .00000     .00000     .00000       2411    
+Arrival Entity.TotalCost                    .00000     .00000     .00000     .00000       2411    
+Counter Entity.VATime                           --         --         --         --          0
+Counter Entity.NVATime                          --         --         --         --          0
+Counter Entity.WaitTime                         --         --         --         --          0
+Counter Entity.TranTime                         --         --         --         --          0
+Counter Entity.OtherTime                        --         --         --         --          0
+Counter Entity.TotalTime                        --         --         --         --          0
+Counter Entity.VACost                           --         --         --         --          0
+Counter Entity.NVACost                          --         --         --         --          0
+Counter Entity.WaitCost                         --         --         --         --          0
+Counter Entity.TranCost                         --         --         --         --          0
+Counter Entity.OtherCost                        --         --         --         --          0
+Counter Entity.TotalCost                        --         --         --         --          0
+Call Type 3.Queue.WaitingTime               4.4975     .49547     .00000     22.698        370    
+Call Type 3.Queue.WaitingCost               .00000     .00000     .00000     .00000        370    
+Seize Product 3 Tech.Queue.WaitingTime      2.6999     .24084     .00000     20.692      10806    
+Seize Product 3 Tech.Queue.WaitingCost      .00000     .00000     .00000     .00000      10806    
+Seize Product 2 Tech.Queue.WaitingTime      2.5921     .26991     .00000     21.131       8624    
+Seize Product 2 Tech.Queue.WaitingCost      .00000     .00000     .00000     .00000       8624    
+Seize Product 1 Tech.Queue.WaitingTime      2.1481     .20140     .00000     16.300       6380    
+Seize Product 1 Tech.Queue.WaitingCost      .00000     .00000     .00000     .00000       6380    
+Call Type 2.Queue.WaitingTime               3.6319     (Corr)     .00000     17.229        345    
+Call Type 2.Queue.WaitingCost               .00000     .00000     .00000     .00000        345    
+Trunk Line.Queue.WaitingTime                .00000     .00000     .00000     .00000      33851    
+Trunk Line.Queue.WaitingCost                .00000     .00000     .00000     .00000      33851    
+Seize Sales Person.Queue.WaitingTime        2.8574     .67517     .00000     42.695       5801    
+Seize Sales Person.Queue.WaitingCost        .00000     .00000     .00000     .00000       5801    
+Call Type 1.Queue.WaitingTime               3.9133     (Insuf)    .00000     23.419        258    
+Call Type 1.Queue.WaitingCost               .00000     (Insuf)    .00000     .00000        258    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Tech 3 Available                            1.9724     (Corr)     .00000     6.0000     6.0000    
+Tech 2 Available                            1.7886     (Corr)     .00000     5.0000     5.0000    
+Tech 1 available                            1.8253     (Corr)     .00000     5.0000     5.0000    
+Sales Call.WIP                              3.9148     (Corr)     .00000     18.000     .00000    
+Order Status Call.WIP                       .35516     .01996     .00000     5.0000     .00000    
+Returned Call.WIP                           1.9027     .18573     .00000     9.0000     .00000    
+Tech Call.WIP                               9.2476     (Corr)     .00000     25.000     .00000    
+Arrival Entity.WIP                          .35948     (Corr)     .00000     6.0000     .00000    
+Counter Entity.WIP                          .95455     (Insuf)    .00000     1.0000     1.0000    
+Tierney.NumberBusy                          .71444     (Corr)     .00000     1.0000     .00000    
+Tierney.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Tierney.Utilization                         .71444     (Corr)     .00000     1.0000     .00000    
+Emma.NumberBusy                             .56110     (Corr)     .00000     1.0000     .00000    
+Emma.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Emma.Utilization                            .56110     (Corr)     .00000     1.0000     .00000    
+Sean.NumberBusy                             .64701     (Corr)     .00000     1.0000     .00000    
+Sean.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sean.Utilization                            .64701     (Corr)     .00000     1.0000     .00000    
+Noah.NumberBusy                             .56444     (Corr)     .00000     1.0000     .00000    
+Noah.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Noah.Utilization                            .56444     (Corr)     .00000     1.0000     .00000    
+Shelley.NumberBusy                          .75717     (Corr)     .00000     1.0000     .00000    
+Shelley.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Shelley.Utilization                         .75717     (Corr)     .00000     1.0000     .00000    
+Sammy.NumberBusy                            .62199     (Corr)     .00000     1.0000     .00000    
+Sammy.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sammy.Utilization                           .62199     (Corr)     .00000     1.0000     .00000    
+Sales.NumberBusy                            3.5269     (Corr)     .00000     7.0000     .00000    
+Sales.NumberScheduled                       5.7272     (Corr)     3.0000     7.0000     3.0000    
+Sales.Utilization                           .58652     .02213     .00000     1.0000     .00000    
+Jenny.NumberBusy                            .69404     (Corr)     .00000     1.0000     .00000    
+Jenny.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Jenny.Utilization                           .69404     (Corr)     .00000     1.0000     .00000    
+Charity.NumberBusy                          .66814     (Corr)     .00000     1.0000     .00000    
+Charity.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Charity.Utilization                         .66814     (Corr)     .00000     1.0000     .00000    
+Molly.NumberBusy                            .65328     (Corr)     .00000     1.0000     .00000    
+Molly.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Molly.Utilization                           .65328     (Corr)     .00000     1.0000     .00000    
+Anna.NumberBusy                             .66681     (Corr)     .00000     1.0000     .00000    
+Anna.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Anna.Utilization                            .66681     (Corr)     .00000     1.0000     .00000    
+Christie.NumberBusy                         .63424     (Corr)     .00000     1.0000     .00000    
+Christie.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Christie.Utilization                        .63424     (Corr)     .00000     1.0000     .00000    
+Trunk Line.NumberBusy                       14.024     (Corr)     .00000     26.000     .00000    
+Trunk Line.NumberScheduled                  26.000     (Insuf)    26.000     26.000     26.000    
+Trunk Line.Utilization                      .53941     (Corr)     .00000     1.0000     .00000    
+Call Type 3.Queue.NumberInQueue             .05043     .00941     .00000     3.0000     .00000    
+Seize Product 3 Tech.Queue.NumberInQueue    .88412     .10867     .00000     13.000     .00000    
+Seize Product 2 Tech.Queue.NumberInQueue    .67741     .08365     .00000     11.000     .00000    
+Seize Product 1 Tech.Queue.NumberInQueue    .41531     (Corr)     .00000     7.0000     .00000    
+Call Type 2.Queue.NumberInQueue             .03797     .00699     .00000     3.0000     .00000    
+Trunk Line.Queue.NumberInQueue              .00000     (Insuf)    .00000     .00000     .00000    
+Seize Sales Person.Queue.NumberInQueue      .50230     .13552     .00000     14.000     .00000    
+Call Type 1.Queue.NumberInQueue             .03060     .00602     .00000     2.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Period 9 Busy Lines                             216  Infinite
+Period 8 Busy Lines                              65  Infinite
+Period 7 Busy Lines                              14  Infinite
+Period 6 Busy Lines                               1  Infinite
+Period 5 Busy Lines                               1  Infinite
+Period 4 Busy Lines                               0  Infinite
+Period 3 Busy Lines                               0  Infinite
+Period 2 Busy Lines                               0  Infinite
+Period 1 Busy Lines                               0  Infinite
+Period 22 Busy Lines                              0  Infinite
+Period 21 Busy Lines                              0  Infinite
+Period 20 Busy Lines                              0  Infinite
+Period 19 Busy Lines                              0  Infinite
+Period 18 Busy Lines                              1  Infinite
+Period 17 Busy Lines                             40  Infinite
+Period 16 Busy Lines                            132  Infinite
+Period 15 Busy Lines                             97  Infinite
+Period 14 Busy Lines                            180  Infinite
+Period 13 Busy Lines                            454  Infinite
+Period 12 Busy Lines                            289  Infinite
+Period 11 Busy Lines                            506  Infinite
+Period 10 Busy Lines                            415  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Sales Call.NumberIn                         5392.0    
+Sales Call.NumberOut                        5392.0    
+Order Status Call.NumberIn                  2649.0    
+Order Status Call.NumberOut                 2649.0    
+Returned Call.NumberIn                      973.00    
+Returned Call.NumberOut                     973.00    
+Tech Call.NumberIn                          25810.    
+Tech Call.NumberOut                         25810.    
+Arrival Entity.NumberIn                     36262.    
+Arrival Entity.NumberOut                    36262.    
+Counter Entity.NumberIn                     51.000    
+Counter Entity.NumberOut                    50.000    
+Tierney.NumberSeized                        2701.0    
+Tierney.ScheduledUtilization                .71444    
+Tierney.BusyCost                            6287.0    
+Tierney.IdleCost                            2512.9    
+Tierney.UsageCost                           .00000    
+Emma.NumberSeized                           2089.0    
+Emma.ScheduledUtilization                   .56110    
+Emma.BusyCost                               4937.6    
+Emma.IdleCost                               3862.3    
+Emma.UsageCost                              .00000    
+Sean.NumberSeized                           2410.0    
+Sean.ScheduledUtilization                   .64701    
+Sean.BusyCost                               5693.6    
+Sean.IdleCost                               3106.3    
+Sean.UsageCost                              .00000    
+Noah.NumberSeized                           2108.0    
+Noah.ScheduledUtilization                   .56444    
+Noah.BusyCost                               4967.0    
+Noah.IdleCost                               3832.9    
+Noah.UsageCost                              .00000    
+Shelley.NumberSeized                        2862.0    
+Shelley.ScheduledUtilization                .75717    
+Shelley.BusyCost                            6663.1    
+Shelley.IdleCost                            2136.8    
+Shelley.UsageCost                           .00000    
+Sammy.NumberSeized                          2320.0    
+Sammy.ScheduledUtilization                  .62199    
+Sammy.BusyCost                              6841.8    
+Sammy.IdleCost                              4158.1    
+Sammy.UsageCost                             .00000    
+Sales.NumberSeized                          5801.0    
+Sales.ScheduledUtilization                  .61582    
+Sales.BusyCost                              34917.    
+Sales.IdleCost                              21822.    
+Sales.UsageCost                             .00000    
+Jenny.NumberSeized                          2554.0    
+Jenny.ScheduledUtilization                  .69404    
+Jenny.BusyCost                              6107.5    
+Jenny.IdleCost                              2692.4    
+Jenny.UsageCost                             .00000    
+Charity.NumberSeized                        2476.0    
+Charity.ScheduledUtilization                .66814    
+Charity.BusyCost                            5879.5    
+Charity.IdleCost                            2920.4    
+Charity.UsageCost                           .00000    
+Molly.NumberSeized                          2466.0    
+Molly.ScheduledUtilization                  .65328    
+Molly.BusyCost                              6467.4    
+Molly.IdleCost                              3432.5    
+Molly.UsageCost                             .00000    
+Anna.NumberSeized                           2469.0    
+Anna.ScheduledUtilization                   .66681    
+Anna.BusyCost                               7334.9    
+Anna.IdleCost                               3665.0    
+Anna.UsageCost                              .00000    
+Christie.NumberSeized                       2328.0    
+Christie.ScheduledUtilization               .63424    
+Christie.BusyCost                           5581.3    
+Christie.IdleCost                           3218.6    
+Christie.UsageCost                          .00000    
+Trunk Line.NumberSeized                     34824.    
+Trunk Line.ScheduledUtilization             .53941    
+Trunk Line.BusyCost                         .00000    
+Trunk Line.IdleCost                         .00000    
+Trunk Line.UsageCost                        .00000    
+All Entities.VACost                          1.0168E+5
+All Entities.NVACost                        .00000    
+All Entities.WaitCost                       .00000    
+All Entities.TranCost                       .00000    
+All Entities.OtherCost                      .00000    
+All Entities.TotalCost                       1.0168E+5
+All Resources.BusyCost                       1.0168E+5
+All Resources.IdleCost                      57361.    
+All Resources.UsageCost                     .00000    
+All Resources.TotalCost                      1.5904E+5
+System.TotalCost                             1.5904E+5
+System.NumberOut                            36262.    
+
+
+Simulation run time: 0.02 minutes.
+Simulation run complete.

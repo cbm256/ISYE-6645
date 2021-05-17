@@ -1,0 +1,16 @@
+[RESOURCES]
+Server1
+Server2
+[VARIABLES]
+Process 5.NumberOut
+Process 4.NumberOut
+Process 2.NumberOut
+Process 2.NumberIn
+Process 3.NumberIn
+Process 1.NumberIn
+Create 1.NumberOut
+Dispose 1.NumberOut
+Process 5.NumberIn
+Process 4.NumberIn
+Process 3.NumberOut
+Process 1.NumberOut

@@ -1,0 +1,57 @@
+
+                                      ARENA Simulation Results
+                                       Jon - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 3/13/2021
+Analyst: sman                                                        Model revision date: 3/13/2021
+
+Replication ended at time      : 240.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .00000     (Insuf)    .00000     .00000        202    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        202    
+Entity 1.WaitTime                           .37564     (Insuf)    .00000     3.6753        202    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        202    
+Entity 1.OtherTime                          .74562     (Insuf)    .21597     1.4664        202    
+Entity 1.TotalTime                          1.1212     (Insuf)    .21597     4.8253        202    
+Seize Operating.Queue.WaitingTime           .75034     (Insuf)    .00000     3.6753        102    
+Seize Cleaner.Queue.WaitingTime             .00000     (Insuf)    .00000     .00000        101    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                .95072     (Insuf)    .00000     4.0000     2.0000    
+Cleaner.NumberBusy                          .20710     (Insuf)    .00000     1.0000     .00000    
+Cleaner.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Cleaner.Utilization                         .20710     (Insuf)    .00000     1.0000     .00000    
+Operating Room.NumberBusy                   .63115     (Insuf)    .00000     1.0000     1.0000    
+Operating Room.NumberScheduled              1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Operating Room.Utilization                  .63115     (Insuf)    .00000     1.0000     1.0000    
+Seize Operating.Queue.NumberInQueue         .31957     (Insuf)    .00000     3.0000     1.0000    
+Seize Cleaner.Queue.NumberInQueue           .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           204.00    
+Entity 1.NumberOut                          202.00    
+Cleaner.NumberSeized                        101.00    
+Cleaner.ScheduledUtilization                .20710    
+Operating Room.NumberSeized                 102.00    
+Operating Room.ScheduledUtilization         .63115    
+System.NumberOut                            202.00    
+
+
+Simulation run time: 0.07 minutes.
+Simulation run complete.

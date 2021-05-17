@@ -1,0 +1,6 @@
+[RESOURCES]
+[VARIABLES]
+Dispose.NumberOut
+Normal Observation Positive?.NumberOut True
+Normal Observation Positive?.NumberOut False
+Create Entity Once Per Hour.NumberOut

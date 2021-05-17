@@ -1,0 +1,23 @@
+[RESOURCES]
+Prep A
+Prep B
+Rework
+Sealer
+[VARIABLES]
+Sealer Process.NumberIn
+Sealer Process.NumberOut
+Shipped.NumberOut
+Failed Sealer Inspection.NumberOut False
+Part B Arrive.NumberOut
+Part A Arrive.NumberOut
+Failed Rework Inspection.NumberOut True
+Rework Process.NumberIn
+Rework Process.NumberOut
+Prep A Process.NumberIn
+Prep B Process.NumberIn
+Prep A Process.NumberOut
+Prep B Process.NumberOut
+Scrapped.NumberOut
+Failed Sealer Inspection.NumberOut True
+Failed Rework Inspection.NumberOut False
+Salvaged.NumberOut

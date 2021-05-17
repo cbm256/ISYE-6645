@@ -1,0 +1,273 @@
+
+                                      ARENA Simulation Results
+                                       Jon - License: STUDENT
+
+                                  Summary for Replication 1 of 3
+
+Project: Unnamed Project                                             Run execution date : 3/13/2021
+Analyst: ISYE                                                        Model revision date: 3/13/2021
+
+Replication ended at time      : 24.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Record Scrapped Parts                       1.1169     (Insuf)    .36197     2.1735          6    
+Record Salvaged Parts                       .95834     (Insuf)    .23094     2.1452         25    
+Record Shipped Parts                        .70045     (Corr)     .06289     2.2855        470    
+Part B.VATime                               .15256     (Insuf)    .08806     .77272        200    
+Part B.NVATime                              .00000     (Insuf)    .00000     .00000        200    
+Part B.WaitTime                             .96843     (Insuf)    .01165     2.1151        200    
+Part B.TranTime                             .00000     (Insuf)    .00000     .00000        200    
+Part B.OtherTime                            .00000     (Insuf)    .00000     .00000        200    
+Part B.TotalTime                            1.1209     (Insuf)    .11933     2.2855        200    
+Part A.VATime                               .12631     (Insuf)    .04828     .92266        301    
+Part A.NVATime                              .00000     (Insuf)    .00000     .00000        301    
+Part A.WaitTime                             .32444     (Insuf)    .00000     1.1017        301    
+Part A.TranTime                             .00000     (Insuf)    .00000     .00000        301    
+Part A.OtherTime                            .00000     (Insuf)    .00000     .00000        301    
+Part A.TotalTime                            .45074     (Insuf)    .06289     1.5719        301    
+Sealer Process.Queue.WaitingTime            .03919     (Corr)     .00000     .22204        502    
+Prep B Process.Queue.WaitingTime            .91343     (Insuf)    .00000     2.1151        202    
+Prep A Process.Queue.WaitingTime            .28434     (Insuf)    .00000     1.0350        303    
+Rework Process.Queue.WaitingTime            .06068     (Insuf)    .00000     .47633         31    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Part B.WIP                                  9.3644     (Insuf)    .00000     24.000     4.0000    
+Part A.WIP                                  5.7144     (Corr)     .00000     15.000     5.0000    
+Prep A.NumberBusy                           .89236     (Insuf)    .00000     1.0000     1.0000    
+Prep A.NumberScheduled                      1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Prep A.Utilization                          .89236     (Insuf)    .00000     1.0000     1.0000    
+Prep B.NumberBusy                           .84720     (Insuf)    .00000     1.0000     1.0000    
+Prep B.NumberScheduled                      1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Prep B.Utilization                          .84720     (Insuf)    .00000     1.0000     1.0000    
+Rework.NumberBusy                           .24256     (Insuf)    .00000     1.0000     .00000    
+Rework.NumberScheduled                      1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Rework.Utilization                          .24256     (Insuf)    .00000     1.0000     .00000    
+Sealer.NumberBusy                           .88161     (Insuf)    .00000     1.0000     1.0000    
+Sealer.NumberScheduled                      1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sealer.Utilization                          .88161     (Insuf)    .00000     1.0000     1.0000    
+Sealer Process.Queue.NumberInQueue          .81975     .33767     .00000     6.0000     1.0000    
+Prep B Process.Queue.NumberInQueue          7.6995     (Insuf)    .00000     21.000     2.0000    
+Prep A Process.Queue.NumberInQueue          3.6175     (Corr)     .00000     13.000     3.0000    
+Rework Process.Queue.NumberInQueue          .07838     (Insuf)    .00000     2.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Part B.NumberIn                             204.00    
+Part B.NumberOut                            200.00    
+Part A.NumberIn                             306.00    
+Part A.NumberOut                            301.00    
+Prep A.NumberSeized                         303.00    
+Prep A.ScheduledUtilization                 .89236    
+Prep B.NumberSeized                         202.00    
+Prep B.ScheduledUtilization                 .84720    
+Rework.NumberSeized                         31.000    
+Rework.ScheduledUtilization                 .24256    
+Sealer.NumberSeized                         502.00    
+Sealer.ScheduledUtilization                 .88161    
+System.NumberOut                            501.00    
+
+Beginning replication 2 of 3
+
+                                      ARENA Simulation Results
+                                       Jon - License: STUDENT
+
+                                  Summary for Replication 2 of 3
+
+Project: Unnamed Project                                             Run execution date : 3/13/2021
+Analyst: ISYE                                                        Model revision date: 3/13/2021
+
+Replication ended at time      : 24.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Record Scrapped Parts                       .64086     (Insuf)    .23159     1.2687          6    
+Record Salvaged Parts                       .65840     (Insuf)    .14069     1.7698         34    
+Record Shipped Parts                        .52526     (Corr)     .07762     1.9557        436    
+Part B.VATime                               .14883     (Insuf)    .08221     .66176        194    
+Part B.NVATime                              .00000     (Insuf)    .00000     .00000        194    
+Part B.WaitTime                             .68172     (Insuf)    .00000     1.8489        194    
+Part B.TranTime                             .00000     (Insuf)    .00000     .00000        194    
+Part B.OtherTime                            .00000     (Insuf)    .00000     .00000        194    
+Part B.TotalTime                            .83055     (Insuf)    .10719     1.9557        194    
+Part A.VATime                               .12617     (Insuf)    .05044     .45988        282    
+Part A.NVATime                              .00000     (Insuf)    .00000     .00000        282    
+Part A.WaitTime                             .20758     (Insuf)    .00000     .62956        282    
+Part A.TranTime                             .00000     (Insuf)    .00000     .00000        282    
+Part A.OtherTime                            .00000     (Insuf)    .00000     .00000        282    
+Part A.TotalTime                            .33375     (Insuf)    .07762     .80246        282    
+Sealer Process.Queue.WaitingTime            .04885     (Corr)     .00000     .23657        477    
+Prep B Process.Queue.WaitingTime            .63872     (Insuf)    .00000     1.9371        196    
+Prep A Process.Queue.WaitingTime            .16443     (Insuf)    .00000     .62956        285    
+Rework Process.Queue.WaitingTime            .01519     (Insuf)    .00000     .22975         40    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Part B.WIP                                  7.4900     (Insuf)    .00000     28.000     26.000    
+Part A.WIP                                  4.0968     (Corr)     .00000     13.000     11.000    
+Prep A.NumberBusy                           .85743     (Insuf)    .00000     1.0000     1.0000    
+Prep A.NumberScheduled                      1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Prep A.Utilization                          .85743     (Insuf)    .00000     1.0000     1.0000    
+Prep B.NumberBusy                           .80470     (Insuf)    .00000     1.0000     1.0000    
+Prep B.NumberScheduled                      1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Prep B.Utilization                          .80470     (Insuf)    .00000     1.0000     1.0000    
+Rework.NumberBusy                           .19619     (Insuf)    .00000     1.0000     .00000    
+Rework.NumberScheduled                      1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Rework.Utilization                          .19619     (Insuf)    .00000     1.0000     .00000    
+Sealer.NumberBusy                           .84280     (Insuf)    .00000     1.0000     1.0000    
+Sealer.NumberScheduled                      1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sealer.Utilization                          .84280     (Insuf)    .00000     1.0000     1.0000    
+Sealer Process.Queue.NumberInQueue          .97410     .45334     .00000     6.0000     2.0000    
+Prep B Process.Queue.NumberInQueue          5.8284     (Insuf)    .00000     25.000     24.000    
+Prep A Process.Queue.NumberInQueue          2.0579     (Corr)     .00000     10.000     8.0000    
+Rework Process.Queue.NumberInQueue          .02531     (Insuf)    .00000     2.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Part B.NumberIn                             220.00    
+Part B.NumberOut                            194.00    
+Part A.NumberIn                             293.00    
+Part A.NumberOut                            282.00    
+Prep A.NumberSeized                         285.00    
+Prep A.ScheduledUtilization                 .85743    
+Prep B.NumberSeized                         196.00    
+Prep B.ScheduledUtilization                 .80470    
+Rework.NumberSeized                         40.000    
+Rework.ScheduledUtilization                 .19619    
+Sealer.NumberSeized                         477.00    
+Sealer.ScheduledUtilization                 .84280    
+System.NumberOut                            476.00    
+
+Beginning replication 3 of 3
+
+                                      ARENA Simulation Results
+                                       Jon - License: STUDENT
+
+                                  Summary for Replication 3 of 3
+
+Project: Unnamed Project                                             Run execution date : 3/13/2021
+Analyst: ISYE                                                        Model revision date: 3/13/2021
+
+Replication ended at time      : 24.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Record Scrapped Parts                       1.0109     (Insuf)    .22419     2.1238         11    
+Record Salvaged Parts                       1.0935     (Insuf)    .17752     3.5337         37    
+Record Shipped Parts                        .79405     (Corr)     .09347     2.7985        463    
+Part B.VATime                               .15648     (Insuf)    .08628     .84106        204    
+Part B.NVATime                              .00000     (Insuf)    .00000     .00000        204    
+Part B.WaitTime                             1.1609     (Insuf)    .01682     2.7949        204    
+Part B.TranTime                             .00000     (Insuf)    .00000     .00000        204    
+Part B.OtherTime                            .00000     (Insuf)    .00000     .00000        204    
+Part B.TotalTime                            1.3174     (Insuf)    .13631     3.5337        204    
+Part A.VATime                               .13125     (Insuf)    .05131     .75967        307    
+Part A.NVATime                              .00000     (Insuf)    .00000     .00000        307    
+Part A.WaitTime                             .35887     (Insuf)    .00000     1.7570        307    
+Part A.TranTime                             .00000     (Insuf)    .00000     .00000        307    
+Part A.OtherTime                            .00000     (Insuf)    .00000     .00000        307    
+Part A.TotalTime                            .49012     (Insuf)    .09347     1.9459        307    
+Sealer Process.Queue.WaitingTime            .07225     (Corr)     .00000     .27871        512    
+Prep B Process.Queue.WaitingTime            1.0768     (Insuf)    .00000     2.5738        204    
+Prep A Process.Queue.WaitingTime            .27647     (Insuf)    .00000     .96288        309    
+Rework Process.Queue.WaitingTime            .11382     (Insuf)    .00000     1.0955         48    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Part B.WIP                                  11.198     (Insuf)    .00000     30.000     .00000    
+Part A.WIP                                  6.3279     (Corr)     .00000     17.000     5.0000    
+Prep A.NumberBusy                           .93623     (Insuf)    .00000     1.0000     1.0000    
+Prep A.NumberScheduled                      1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Prep A.Utilization                          .93623     (Insuf)    .00000     1.0000     1.0000    
+Prep B.NumberBusy                           .84139     (Insuf)    .00000     1.0000     .00000    
+Prep B.NumberScheduled                      1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Prep B.Utilization                          .84139     (Insuf)    .00000     1.0000     .00000    
+Rework.NumberBusy                           .34024     (Insuf)    .00000     1.0000     .00000    
+Rework.NumberScheduled                      1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Rework.Utilization                          .34024     (Insuf)    .00000     1.0000     .00000    
+Sealer.NumberBusy                           .89866     (Insuf)    .00000     1.0000     1.0000    
+Sealer.NumberScheduled                      1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sealer.Utilization                          .89866     (Insuf)    .00000     1.0000     1.0000    
+Sealer Process.Queue.NumberInQueue          1.5413     (Corr)     .00000     6.0000     .00000    
+Prep B Process.Queue.NumberInQueue          9.1533     (Insuf)    .00000     28.000     .00000    
+Prep A Process.Queue.NumberInQueue          3.5873     (Corr)     .00000     12.000     3.0000    
+Rework Process.Queue.NumberInQueue          .22764     (Insuf)    .00000     3.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Part B.NumberIn                             204.00    
+Part B.NumberOut                            204.00    
+Part A.NumberIn                             312.00    
+Part A.NumberOut                            307.00    
+Prep A.NumberSeized                         309.00    
+Prep A.ScheduledUtilization                 .93623    
+Prep B.NumberSeized                         204.00    
+Prep B.ScheduledUtilization                 .84139    
+Rework.NumberSeized                         48.000    
+Rework.ScheduledUtilization                 .34024    
+Sealer.NumberSeized                         512.00    
+Sealer.ScheduledUtilization                 .89866    
+System.NumberOut                            511.00    
+
+
+                                      ARENA Simulation Results
+                                       Jon - License: STUDENT
+
+                                  Output Summary for 3 Replications
+
+Project: Unnamed Project                                             Run execution date : 3/13/2021
+Analyst: ISYE                                                        Model revision date: 3/13/2021
+
+
+                                             OUTPUTS
+
+Identifier                                 Average    Half-width Minimum    Maximum # Replications
+___________________________________________________________________________________________________
+
+Part B.NumberIn                             209.33     22.949     204.00     220.00     3
+Part B.NumberOut                            199.33     12.504     194.00     204.00     3
+Part A.NumberIn                             303.66     24.129     293.00     312.00     3
+Part A.NumberOut                            296.66     32.423     282.00     307.00     3
+Prep A.NumberSeized                         299.00     31.029     285.00     309.00     3
+Prep A.ScheduledUtilization                 .89534     .09809     .85743     .93623     3
+Prep B.NumberSeized                         200.66     10.343     196.00     204.00     3
+Prep B.ScheduledUtilization                 .83110     .05724     .80470     .84720     3
+Rework.NumberSeized                         39.666     21.129     31.000     48.000     3
+Rework.ScheduledUtilization                 .25966     .18268     .19619     .34024     3
+Sealer.NumberSeized                         497.00     44.787     477.00     512.00     3
+Sealer.ScheduledUtilization                 .87436     .07111     .84280     .89866     3
+System.NumberOut                            496.00     44.787     476.00     511.00     3
+
+Simulation run time: 0.13 minutes.
+Simulation run complete.

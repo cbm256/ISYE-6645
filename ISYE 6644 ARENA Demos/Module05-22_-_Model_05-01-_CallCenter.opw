@@ -1,0 +1,32 @@
+[RESOURCES]
+Tierney
+Emma
+Sean
+Noah
+Shelley
+Sammy
+Sales
+Jenny
+Charity
+Molly
+Anna
+Christie
+Trunk Line
+[VARIABLES]
+Dispose of Balked Call.NumberOut
+Returned Call?.NumberOut False
+Busy Per Period
+Sales Person Required?.NumberOut True
+Sales Person Required?.NumberOut False
+Check Period.NumberOut True
+Dispose Sales Call.NumberOut
+Dispose of Counter Entity.NumberOut
+Create Arrivals.NumberOut
+Create Counter Entity.NumberOut
+Period
+No Returned Call.NumberOut
+Dispose Returned Call.NumberOut
+Check Period.NumberOut False
+Dispose Order Status Call.NumberOut
+Returned Call?.NumberOut True
+Per Period Balk

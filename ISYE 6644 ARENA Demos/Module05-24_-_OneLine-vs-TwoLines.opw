@@ -1,0 +1,30 @@
+[RESOURCES]
+Drill Press3
+Drill Press2
+Drill Press1
+Drill Press
+[VARIABLES]
+Single Drilling Center.VATime
+Single Drilling Center.WaitTime
+Drilling Center3.NumberIn
+Drilling Center3.NumberOut
+Drilling Center2.NumberIn
+Drilling Center2.NumberOut
+Drilling Center1.WaitTime
+Drilling Center1.VATime
+NumA
+NumB
+Separate 1.NumberOut Orig
+Part Leaves System.NumberOut
+Part Arrives to System.NumberOut
+Single Drilling Center.NumberIn
+Single Drilling Center.NumberOut
+Drilling Center3.VATime
+Drilling Center3.WaitTime
+Drilling Center2.VATime
+Separate 1.NumberOut Dup
+Drilling Center1.NumberIn
+Drilling Center1.NumberOut
+TotalCycleTimeB
+TotalCycleTimea
+Drilling Center2.WaitTime

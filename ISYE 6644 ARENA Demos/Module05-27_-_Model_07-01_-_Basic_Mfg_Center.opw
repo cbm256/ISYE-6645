@@ -1,0 +1,19 @@
+[RESOURCES]
+Cell 4 Machine
+Cell 2 Machine
+Cell 1 Machine
+Cell 3 Old
+Cell 3 New
+[VARIABLES]
+Cell 4 Process.NumberIn
+Cell 3 Process.NumberIn
+Cell 2 Process.NumberIn
+Cell 1 Process.NumberIn
+Cell 4 Process.NumberOut
+Cell 3 Process.NumberOut
+Cell 2 Process.NumberOut
+Cell 1 Process.NumberOut
+Create Parts.NumberOut
+Transfer Time
+Dispose of Part.NumberOut
+Factor

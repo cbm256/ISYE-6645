@@ -1,0 +1,23 @@
+[RESOURCES]
+[VARIABLES]
+Prev Day
+Delta
+Time Writing.NumberOut
+While Book Cost has not been recovered Start.NumberOut False
+Book Sold Post BreakEven.NumberOut False
+Book Sold Post BreakEven.NumberOut True
+Dispose 2.NumberOut
+Time Writing.VATime
+Delay 1 Day.VATime
+Income Per Day.NumberOut
+Afford Paycheck of New Book?.NumberOut True
+Afford Paycheck of New Book?.NumberOut False
+Delay 1 Day.NumberOut
+Delay 1 Day.NumberIn
+Funds Available
+While Book Cost has not been recovered Start.NumberOut True
+Time Writing.NumberIn
+Book Sold Pre BreakEven.NumberOut True
+Book Sold Pre BreakEven.NumberOut False
+Dispose 3.NumberOut
+Create New Book.NumberOut

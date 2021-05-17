@@ -1,0 +1,8 @@
+[RESOURCES]
+Manicurist
+Barber
+[VARIABLES]
+Dispose 1.NumberOut
+Customers arrive.NumberOut
+Barber Station.NumberOut
+Barber Station.NumberIn

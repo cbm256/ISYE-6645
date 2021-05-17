@@ -1,0 +1,33 @@
+[RESOURCES]
+[VARIABLES]
+Prev Day
+Delta
+PublisherPopularity
+Popularity Loop PostFlip.NumberOut False
+Time Writing.NumberOut
+Afford Paycheck of Book?.NumberOut True
+Sales Chance.NumberOut False
+Sales Chance.NumberOut True
+Dispose 2.NumberOut
+Popularity Loop PostFlip.NumberOut True
+Create book.NumberOut
+Income Per Day.NumberOut
+Afford Paycheck of Book?.NumberOut False
+Cannot afford at this time.NumberOut
+Delay 1 Day.NumberOut
+Delay 1 Day.NumberIn
+Funds Available
+Sales Chance PostFlip.NumberOut False
+Popularity Loop.NumberOut True
+BigSoldPerDay
+Time Writing.NumberIn
+Popularity Loop.NumberOut False
+While Book Cost is not Recovered.NumberOut False
+While Book Cost is not Recovered.NumberOut True
+Next Day PostFlip.NumberOut
+Next Day PostFlip.NumberIn
+Next Day.NumberOut
+Need Marketting Intervention?.NumberOut True
+Need Marketting Intervention?.NumberOut False
+Next Day.NumberIn
+Sales Chance PostFlip.NumberOut True

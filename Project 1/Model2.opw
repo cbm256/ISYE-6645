@@ -1,0 +1,8 @@
+[RESOURCES]
+[VARIABLES]
+Decide 1.NumberOut False
+Lambda
+Create Book.NumberOut
+Delay 1 Day.NumberOut
+Delay 1 Day.NumberIn
+Decide 1.NumberOut True

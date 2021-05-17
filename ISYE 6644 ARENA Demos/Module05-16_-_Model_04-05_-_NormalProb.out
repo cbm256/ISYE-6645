@@ -1,0 +1,23 @@
+
+                                      ARENA Simulation Results
+                                       Jon - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: One in a miliion can happen                                 Run execution date : 3/13/2021
+Analyst: Johann Karl Friedrich Gauss                                 Model revision date: 3/13/2021
+
+Replication ended at time      : 999999.0 Hours 
+Base Time Units: Hours
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Negative Observations                        632540  Infinite
+Nonnegative Observations                     367460  Infinite
+
+
+Simulation run time: 0.05 minutes.
+Simulation run complete.

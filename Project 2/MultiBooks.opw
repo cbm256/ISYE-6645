@@ -1,0 +1,19 @@
+[RESOURCES]
+[VARIABLES]
+Next Period Post Flip.NumberOut
+Follower Base
+Next Period Post Flip.NumberIn
+Serial Books
+Create Book.NumberOut
+Next Period.NumberIn
+Next Period.NumberOut
+Update Loop.NumberOut True
+Enter Market.NumberOut
+Update Loop.NumberOut False
+While Book Cost is not Recovered.NumberOut False
+While Book Cost is not Recovered.NumberOut True
+Enter Market.NumberIn
+Revenue
+RTR
+Entity Index
+Available Funds

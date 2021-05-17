@@ -1,0 +1,105 @@
+SIMAN Run Controller.
+
+306.27634 Minutes>
+                                      ARENA Simulation Results
+                                       Jon - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Small Manufacturing System                                  Run execution date : 3/13/2021
+Analyst: Ozzy                                                        Model revision date: 3/13/2021
+
+Replication ended at time      : 306.27634 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                                 --         --         --         --          0
+Entity 1.NVATime                                --         --         --         --          0
+Entity 1.WaitTime                               --         --         --         --          0
+Entity 1.TranTime                               --         --         --         --          0
+Entity 1.OtherTime                              --         --         --         --          0
+Entity 1.TotalTime                              --         --         --         --          0
+Part 2.VATime                               72.780     (Insuf)    67.964     77.030          6    
+Part 2.NVATime                              .00000     (Insuf)    .00000     .00000          6    
+Part 2.WaitTime                             13.110     (Insuf)    5.3632     23.971          6    
+Part 2.TranTime                             12.000     (Insuf)    12.000     12.000          6    
+Part 2.OtherTime                            .00000     (Insuf)    .00000     .00000          6    
+Part 2.TotalTime                            97.891     (Insuf)    89.178     113.00          6    
+Part 3.VATime                               41.001     (Insuf)    35.804     46.591          7    
+Part 3.NVATime                              .00000     (Insuf)    .00000     .00000          7    
+Part 3.WaitTime                             9.8671     (Insuf)    4.0650     19.236          7    
+Part 3.TranTime                             8.0000     (Insuf)    8.0000     8.0000          7    
+Part 3.OtherTime                            .00000     (Insuf)    .00000     .00000          7    
+Part 3.TotalTime                            58.868     (Insuf)    49.203     67.118          7    
+Part 1.VATime                               46.511     (Insuf)    39.461     51.203          5    
+Part 1.NVATime                              .00000     (Insuf)    .00000     .00000          5    
+Part 1.WaitTime                             21.535     (Insuf)    12.649     35.998          5    
+Part 1.TranTime                             10.000     (Insuf)    10.000     10.000          5    
+Part 1.OtherTime                            .00000     (Insuf)    .00000     .00000          5    
+Part 1.TotalTime                            78.046     (Insuf)    67.055     92.444          5    
+Cell 4 Process.Queue.WaitingTime            4.0311     (Insuf)    .00000     18.560         12    
+Cell 3 Process.Queue.WaitingTime            4.0621     (Insuf)    .00000     19.006         19    
+Cell 2 Process.Queue.WaitingTime            2.7269     (Insuf)    .00000     9.7208         26    
+Cell 1 Process.Queue.WaitingTime            5.0597     (Insuf)    .00000     14.060         20    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                .00000     (Insuf)    .00000     1.0000     .00000    
+Part 2.WIP                                  2.3612     (Insuf)    .00000     4.0000     3.0000    
+Part 3.WIP                                  1.3454     (Insuf)    .00000     3.0000     .00000    
+Part 1.WIP                                  1.2741     (Insuf)    .00000     3.0000     .00000    
+Cell 4 Machine.NumberBusy                   .60489     (Insuf)    .00000     1.0000     .00000    
+Cell 4 Machine.NumberScheduled              1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Cell 4 Machine.Utilization                  .60489     (Insuf)    .00000     1.0000     .00000    
+Cell 2 Machine.NumberBusy                   .67017     (Insuf)    .00000     1.0000     .00000    
+Cell 2 Machine.NumberScheduled              1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Cell 2 Machine.Utilization                  .67017     (Insuf)    .00000     1.0000     .00000    
+Cell 1 Machine.NumberBusy                   .69244     (Insuf)    .00000     1.0000     1.0000    
+Cell 1 Machine.NumberScheduled              1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Cell 1 Machine.Utilization                  .69244     (Insuf)    .00000     1.0000     1.0000    
+Cell 3 Old.NumberBusy                       .65217     (Insuf)    .00000     1.0000     .00000    
+Cell 3 Old.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Cell 3 Old.Utilization                      .65217     (Insuf)    .00000     1.0000     .00000    
+Cell 3 New.NumberBusy                       .76247     (Insuf)    .00000     1.0000     1.0000    
+Cell 3 New.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Cell 3 New.Utilization                      .76247     (Insuf)    .00000     1.0000     1.0000    
+Cell 4 Process.Queue.NumberInQueue          .15794     (Insuf)    .00000     2.0000     .00000    
+Cell 3 Process.Queue.NumberInQueue          .25200     (Insuf)    .00000     2.0000     .00000    
+Cell 2 Process.Queue.NumberInQueue          .23149     (Insuf)    .00000     2.0000     .00000    
+Cell 1 Process.Queue.NumberInQueue          .33040     (Insuf)    .00000     2.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           21.000    
+Entity 1.NumberOut                          21.000    
+Part 2.NumberIn                             9.0000    
+Part 2.NumberOut                            6.0000    
+Part 3.NumberIn                             7.0000    
+Part 3.NumberOut                            7.0000    
+Part 1.NumberIn                             5.0000    
+Part 1.NumberOut                            5.0000    
+Cell 4 Machine.NumberSeized                 12.000    
+Cell 4 Machine.ScheduledUtilization         .60489    
+Cell 2 Machine.NumberSeized                 26.000    
+Cell 2 Machine.ScheduledUtilization         .67017    
+Cell 1 Machine.NumberSeized                 20.000    
+Cell 1 Machine.ScheduledUtilization         .69244    
+Cell 3 Old.NumberSeized                     8.0000    
+Cell 3 Old.ScheduledUtilization             .65217    
+Cell 3 New.NumberSeized                     11.000    
+Cell 3 New.ScheduledUtilization             .76247    
+System.NumberOut                            18.000    
+
+
+Simulation run time: 1.45 minutes.
+Simulation run complete.

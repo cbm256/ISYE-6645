@@ -1,0 +1,65 @@
+SIMAN Run Controller.
+
+19.619955 Hours>
+                                      ARENA Simulation Results
+                                       Jon - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 3/13/2021
+Analyst: ISyE                                                        Model revision date: 3/13/2021
+
+Replication ended at time      : 19.619955 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .02173      6.1220E-4 .00263     .09484       1152    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000       1152    
+Entity 1.WaitTime                           .73078     (Corr)     .00000     1.6258       1152    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000       1152    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000       1152    
+Entity 1.TotalTime                          .75251     (Corr)     .00437     1.6474       1152    
+Process 5.Queue.WaitingTime                 .19643     (Corr)     .00000     .63587       1152    
+Process 4.Queue.WaitingTime                 .28529     (Corr)     .00000     .84532       1152    
+Process 2.Queue.WaitingTime                 .10947     .02151     .00000     .37507       1173    
+Process 1.Queue.WaitingTime                 .14872     .04727     .00000     .81069       1211    
+Process 3.Queue.WaitingTime                 .00384     .00292     .00000     .75267       1172    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                45.756     (Corr)     .00000     97.000     59.000    
+Server1.NumberBusy                          .70276     (Corr)     .00000     1.0000     1.0000    
+Server1.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Server1.Utilization                         .70276     (Corr)     .00000     1.0000     1.0000    
+Server2.NumberBusy                          .58666     (Insuf)    .00000     1.0000     1.0000    
+Server2.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Server2.Utilization                         .58666     (Insuf)    .00000     1.0000     1.0000    
+Process 5.Queue.NumberInQueue               11.533     3.7494     .00000     78.000     .00000    
+Process 4.Queue.NumberInQueue               16.817     4.9459     .00000     96.000     19.000    
+Process 2.Queue.NumberInQueue               6.7065     2.1010     .00000     48.000     38.000    
+Process 1.Queue.NumberInQueue               9.1791     2.9768     .00000     56.000     .00000    
+Process 3.Queue.NumberInQueue               .22953     .13727     .00000     4.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           1211.0    
+Entity 1.NumberOut                          1152.0    
+Server1.NumberSeized                        3535.0    
+Server1.ScheduledUtilization                .70276    
+Server2.NumberSeized                        2325.0    
+Server2.ScheduledUtilization                .58666    
+System.NumberOut                            1152.0    
+
+
+Simulation run time: 0.32 minutes.
+Simulation run complete.

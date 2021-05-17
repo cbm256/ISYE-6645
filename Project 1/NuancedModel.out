@@ -1,0 +1,55 @@
+SIMAN Run Controller.
+
+98.958333 Days>
+                                      ARENA Simulation Results
+                                       Jon - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 3/25/2021
+Analyst: Jon                                                         Model revision date: 3/25/2021
+
+Replication ended at time      : 98.958333 Days 
+Base Time Units: Days
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Days till Flip                                  --         --         --         --          0
+Book.VATime                                     --         --         --         --          0
+Book.NVATime                                    --         --         --         --          0
+Book.WaitTime                                   --         --         --         --          0
+Book.TranTime                                   --         --         --         --          0
+Book.OtherTime                                  --         --         --         --          0
+Book.TotalTime                                  --         --         --         --          0
+Fake Counter.VATime                             --         --         --         --          0
+Fake Counter.NVATime                            --         --         --         --          0
+Fake Counter.WaitTime                           --         --         --         --          0
+Fake Counter.TranTime                           --         --         --         --          0
+Fake Counter.OtherTime                          --         --         --         --          0
+Fake Counter.TotalTime                          --         --         --         --          0
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Book.WIP                                    1.0000     (Insuf)    .00000     1.0000     1.0000    
+Fake Counter.WIP                            .95874     (Insuf)    .00000     1.0000     1.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Book.NumberIn                               1.0000    
+Book.NumberOut                              .00000    
+Fake Counter.NumberIn                       99.000    
+Fake Counter.NumberOut                      98.000    
+System.NumberOut                            .00000    
+
+
+Simulation run time: 0.23 minutes.
+Simulation run complete.

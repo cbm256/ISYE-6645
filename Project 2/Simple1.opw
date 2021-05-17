@@ -1,0 +1,13 @@
+[RESOURCES]
+[VARIABLES]
+Follower Base
+Dispose 2.NumberOut
+Create Book.NumberOut
+Next Period.NumberIn
+Next Period.NumberOut
+Enter Market.NumberOut
+While Book Cost is not Recovered.NumberOut False
+While Book Cost is not Recovered.NumberOut True
+Enter Market.NumberIn
+Revenue
+Available Funds

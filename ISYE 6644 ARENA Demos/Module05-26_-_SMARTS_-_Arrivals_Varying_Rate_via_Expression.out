@@ -1,0 +1,59 @@
+SIMAN Run Controller.
+
+1258.7962 Hours>
+                                      ARENA Simulation Results
+                                       Jon - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Smarts065                                                   Run execution date : 3/13/2021
+Analyst: Rockwell Automation                                         Model revision date: 3/13/2021
+
+Replication ended at time      : 1258.7962 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Process 1.VATimePerEntity                   .49736     .00485     .20147     .80021       1230    
+Process 1.TotalTimePerEntity                .49739     .00485     .20147     .80021       1230    
+Process 1.WaitTimePerEntity                  3.9016E-5  5.7435E-5 .00000     .02901       1230    
+Entity 1.VATime                             .49736     .00485     .20147     .80021       1230    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000       1230    
+Entity 1.WaitTime                            3.9016E-5  5.7435E-5 .00000     .02901       1230    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000       1230    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000       1230    
+Entity 1.TotalTime                          .49739     .00485     .20147     .80021       1230    
+Process 1.Queue.WaitingTime                  3.8984E-5  5.7435E-5 .00000     .02901       1231    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                1.4863     .04054     .00000     3.0000     2.0000    
+Machine.NumberBusy                          .48627     .04053     .00000     1.0000     1.0000    
+Machine.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Machine.Utilization                         .48627     .04053     .00000     1.0000     1.0000    
+Process 1.Queue.NumberInQueue                3.8124E-5 (Insuf)    .00000     1.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Process 1 Accum Wait Time                   .04799    
+Process 1 Number In                         1231.0    
+Process 1 Accum VA Time                     611.74    
+Process 1 Number Out                        1230.0    
+Entity 1.NumberIn                           1232.0    
+Entity 1.NumberOut                          1230.0    
+Machine.NumberSeized                        1231.0    
+Machine.ScheduledUtilization                .48627    
+System.NumberOut                            1230.0    
+
+
+Simulation run time: 0.07 minutes.
+Simulation run complete.
